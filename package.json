@@ -1,0 +1,11 @@
+{
+  "name": "veganbot",
+  "version": "1.0.0",
+  "description": "A RESTful API that returns the category (Vegan, Animal, Both) of specific food ingredients.",
+  "main": "veganbot.js",
+  "author": "Cohen Adair, Jason Yee",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

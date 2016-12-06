@@ -1,0 +1,2254 @@
+[
+  {
+    "ingredient": "Acesulfame/Acesulfame Potassium/Acesulfame K/Ace K",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Actinidin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Agar-agar(agar)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Aloe Vera",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Aluminum Hydroxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Aluminum Sulfate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Annatto",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Anthocyanins",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Ascorbic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Aspartame",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Baker's Yeast",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Bauxite",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Beet Sugar",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Benzoic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Beta Carotene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Betatene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Brewer's Yeast",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Bromelain",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Butane",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Calcium Chloride",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Calcium Disodium EDTA",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Calcium Hydroxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Candelilla wax",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Carbonic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Carnauba wax",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Carotene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Carrageenan",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Castor oil",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Cellulose",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Cinnamic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Citric Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Coal tar",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "ColFlo 67",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Cornstarch/Corn starch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Corn Syrup",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Cottonseed oil",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Crospovidone",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Curcumin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Dextrin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Direct Reduced Iron (DRI)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Erythorbic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Ferrous Sulfate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Ficin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Folic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Fructose (Syrup)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Glucose isomerate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Guar Gum",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Gum Arabic/Gum Acacia",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "High Fructose Corn Syrup (HFCS)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Hydrochloric Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Hydroxypropyl cellulose",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Hydroxypropyl methylcelluose (HPMC)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Inulin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Lactase",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Laurel",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Lauric Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Lauryl Alcohol",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Limestone",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Lipoxygenase",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Malic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Maltodextrin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methanol",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methyl alcohol",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Mannitol(Mannite)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methyl cellulose (methylcellulose)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Mentha (mint)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Metafolin¬",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methyl cinnamate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methyl chloride(chloromethane) (",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Modified (food) starch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Monosodium glutamate(MSG)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "NutraSweet",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Octinoxate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Octyl Methoxycinnamate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Oxybenzone",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Papain",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Paraffin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Pectin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Petroleum",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Phenol",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Phosphoric Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Polyethylene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Polyvinylpyrrolidone(PVP)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Potassium Chloride",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Potassium Hydroxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Potassium Sorbate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Propylene/propene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Propylene/propene oxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Reduced Iron",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Salicylic Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Alginate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Aluminum Sulfate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Benzoate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Bicarbonate/Baking Soda",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Carbonate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Chloride",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Hydroxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Laureth Sulfate (SLES)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Lauryl Sulfate (SLS)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Metabisulfite",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Phosphate (mono-, di-, and tri-)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Sulfate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sorbic acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sorbitan monolaurate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sorbitan monopalmitate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sorbitol",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sponge Iron",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Starch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sulfur Dioxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sulfuric Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sunette",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Synthetic",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Tartaric Acid",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "TBHQ(Tertiary Butylhydroquinone)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Tertiary Butylhydroquinone",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Thiamine Mononitrate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Thiamine Hydrocholide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Toluene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Tocopherols",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Turmeric",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Vegetable Glycerin",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Vitamin C",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Vitamin E",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Waxy maze",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "White Mineral Oil",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Xanthan gum(corn sugar gum)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Yeast",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E100",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E160a",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E160b",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E160c",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E162",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E163",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E200",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E202",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E211",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E223",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E296",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E300",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E315",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E385",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E406",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E407",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E412",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E415",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E420",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E421",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E493",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E495",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E507",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E508",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E521",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E526",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E621",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E902",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E903",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E950",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E1201",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "E1400",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Acesulfame",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Cornstarch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Gum Arabic",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Propylene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Propylene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Bicarbonate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Agar-agar(agar)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Direct Reduced Iron (DRI)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Fructose (Syrup)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "High Fructose Corn Syrup (HFCS)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Hydroxypropyl methylcelluose (HPMC)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Mannitol(Mannite)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methyl cellulose",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Mentha",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Methyl chloride",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Modified starch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Monosodium glutamate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Polyvinylpyrrolidone",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Laureth Sulfate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Lauryl Sulfate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Phosphate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "TBHQ",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Xanthan gum",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Acesulfame Potassium",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Corn starch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Gum Acacia",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "propene",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "propene oxide",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Baking Soda",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "agar",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "DRI",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Fructose Syrup",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "HFCS",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "HPMC",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Mannite",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "methylcellulose",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "mint",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "chloromethane)",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "modified food starch",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "MSG",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "PVP",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "SLES",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "SLS",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Mono-Phosphate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Tertiary Butylhydroquinone",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "corn sugar gum",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Acesulfame K",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Di-Phosphate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Ace K",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Sodium Tri-Phosphate",
+    "category": "Vegan"
+  },
+  {
+    "ingredient": "Acetate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Adrenaline",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Albumen/Albumin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Allantoin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Allura Red",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Alpha hydroxy acids",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Amino acids",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Amylase",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Artificial",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Aspartic Acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Beeswax",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Brilliant Blue FCF",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Calcium Carbonate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Calcium Lactate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Calcium Phosphate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Calcium Stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Calcium stearoyl-2-lactylate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cane Sugar",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Caramel",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Carbamide",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Carbon Black",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Catalase",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cetyl alcohol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cetyl palmitate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Chalk",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Charcoal",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Chondroitin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Chymosin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Civet",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Colors/Dyes",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Corticosteroid/Cortisone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cysteine, L-Form",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cystine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "D&C Colors",
+    "category": "Both"
+  },
+  {
+    "ingredient": "DiCalcium Phosphate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Dihydroxyacetone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Disodium inosinate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Enzymes",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Ergocalciferol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Fatty acids",
+    "category": "Both"
+  },
+  {
+    "ingredient": "FD&C Colors",
+    "category": "Both"
+  },
+  {
+    "ingredient": "FD&C Blue 1",
+    "category": "Both"
+  },
+  {
+    "ingredient": "FD&C Red 40",
+    "category": "Both"
+  },
+  {
+    "ingredient": "FD&C Yellow 5",
+    "category": "Both"
+  },
+  {
+    "ingredient": "FD&C Yellow 6",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Feathers",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Felt",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Ferrous Lactate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Folate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glucono delta-lactone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Gluconolactone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glucose",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glucosamine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glycerin(e)/glycerol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glycine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Inositol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Insulin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "L-cysteine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "L-cysteine hydrochloride",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Lactic acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Lactoflavin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Lecithin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Lipase",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Lutein",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Magnesium stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Monoazo(Sunset Yellow FCF, Orange Yellow S)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Monocalcium Phosphate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Mono-Diglycerides",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Musk",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Natural",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Natural flavor",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Niacin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Nicotinic Acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Nutritional Yeast",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Oestrogen",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Oleic acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Oleic alcohol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Oleth-2 through 50",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Orange Yellow S",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Palmitate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Palmitic acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Panthenol/Dexpanthenol/Vitamin B Complex Factor",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Parchment",
+    "category": "Both"
+  },
+  {
+    "ingredient": "PEG",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polyglycerol polyricinoleate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polysorbate 60",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polysorbate 80",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polyoxyethylene (8) stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polyoxyethylene (40) stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Potassium Lactate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Progesterone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Propylene glycol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Quinoline Yellow",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Rennet",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Rennin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Red 40",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Riboflavin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Riboflavin-5-Phosphate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sodium Lactate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sodium stearoyl-2-lactylate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sorbitan monostearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sorbitan monooleate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sorbitan tristearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sorbitan Trioleate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sourdough starter",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sponge",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Squalene/squalane",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearic acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearin(e)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearyl alcohol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearyl tartrate(Stearyl palmityl tartrate)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sucroglycerides",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sucralose",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sucrose",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Suede",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Suet",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sugar",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sunset Yellow FCF",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Tartrazine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Testosterone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Tricalcium Phosphate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Urea",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vegetable Carbon",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vellum",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Velvet",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin A(retinol)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B1(Thiamine, Thiamin)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B2(Riboflavin, Lactoflavin)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B3(Niacin, Nicotinic Acid)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B9(Folic Acid, Folate)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin D2(Ergocalciferol)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin D3(Cholecalciferol)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Waxed Paper",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Yellow 5",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Yellow 6",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E101",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E101a",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E102",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E104",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E110",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E129",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E133",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E150a",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E150b",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E150c",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E150d",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E153",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E170",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E270",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E322",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E325",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E326",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E327",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E341",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E375",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E422",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E430",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E431",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E432",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E433",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E434",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E435",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E436",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E470(a)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E470(b)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E471",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472(a)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472(b)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472(c)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472(d)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472(e)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472(f)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E473",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E474",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E475",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E476",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E477",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E478",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E479(b)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E481",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E482",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E483",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E491",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E492",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E494",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E570",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E572",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E585",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E640",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E901",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E910",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E920",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Albumen",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Colors",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Corticosteroid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glycerin(e)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Panthenol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Squalene",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Glycerin(e)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Monoazo",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polyoxyethylene-8-stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polyoxyethylene (40) stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearyl tartrate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Tartrazine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin A",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B1",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B2",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B3",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B9",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin D2",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin D3",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E470 (a)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E470 (b)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472 (a)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472 (b)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472 ©",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472 (d)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472 (e)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E472 (f)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "E479 (b)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Albumin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Dyes",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cortisone",
+    "category": "Both"
+  },
+  {
+    "ingredient": "glycerol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Dexpanthenol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "squalane",
+    "category": "Both"
+  },
+  {
+    "ingredient": "glycerol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Sunset Yellow FCF, Orange Yellow S)",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Polyoxyethylene (8) stearate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Stearyl palmityl tartrate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Retinol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Thiamine",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Riboflavin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Niacin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Folic Acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Ergocalciferol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Cholecalciferol",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Vitamin B Complex Factor",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Thiamin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Lactoflavin",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Nicotinic Acid",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Folate",
+    "category": "Both"
+  },
+  {
+    "ingredient": "Ambergris",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Amniotic fluid",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Anchovy",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Angora",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Arachidonic acid",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Aspic",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Astrakhan",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bee pollen",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bone/Bonemeal",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bone char(coal)/Boneblack",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bone phosphate",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bonito",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Brawn",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bristle",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Capiz",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Carmine/Carminic acid",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Casein",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Cashmere",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Castor/Castoreum",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Catgut",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Caviar(e)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Chitin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Chamois",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Cholecalciferol",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Cholesterol",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Chymotrypsin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Cochineal(Carmine, Carminic acid, Natural Red 4)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Cod liver oil",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Collagen",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Collagen hydrolysate",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Confectioner's Glaze",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Coral",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Dashi (fish broth)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Down",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Duodenum substances",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Elastin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Emu oil",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Estrogen/Estradiol",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Gelatin(e)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Guanine/Pearl Essence",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Hide",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Honey",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Isinglass",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Katsuobushi (okaka)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Keratin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Lactose",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Lanolin(e)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Lard",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Leather",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Milk Sugar",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Mink oil",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Mohair",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Natural Red 4",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Oleoic oil",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Oleostearin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Paracasein",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Pearl",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Pepsin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Pharmaceutical Glaze",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Placenta",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Propolis",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Resinous Glaze",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Reticulin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Roe",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Royal jelly",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Sable",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Shellac",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Silk",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Sperm oil",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Spermaceti",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Tallow",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Trypsin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Volaise",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Whey",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Wool",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "E120",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "E441",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "E542",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "E631",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "E904",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "E913",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bone",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "bone charcoal",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Carmine",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Castor",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Estrogen",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Guanine",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bone char(coal)",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "caviar",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Cochineal",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Dashi",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Gelatin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Katsuobushi",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Lanolin",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Bonemeal",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Boneblack",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Carminic acid",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Castoreum",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Estradiol",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Pearl Essence",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Boneblack",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "caviare",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "camine",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "fish broth",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "Gelatine",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "OKAKA",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "LANOLINE",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "carminic acid",
+    "category": "Animal"
+  },
+  {
+    "ingredient": "natural red 4",
+    "category": "Animal"
+  }
+]
