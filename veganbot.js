@@ -26,7 +26,7 @@ var json = require("./veganbot.json")
 // Create ingredient-category map.
 var map = {};
 for (var i in json) {
-	map[json[i][KEY_NAME].toLowerCase()] = json[i][VALUE_NAME]
+    map[json[i][KEY_NAME].toLowerCase()] = json[i][VALUE_NAME]
 }
 
 // Capitalizes the first letter of the given string.
@@ -36,13 +36,13 @@ function capitalizeFirstLetter(string) {
 
 // @param ingredient The ingredient to look up.
 app.get("/:ingredient", function (req, res) {
-	var category = map[req.params[KEY_NAME].toLowerCase()] 
-	var result = {}
-	result[KEY_NAME] = capitalizeFirstLetter(req.params[KEY_NAME].toLowerCase())
-	result[VALUE_NAME] = category == undefined ? "undefined" : category
-  	res.send(result)
+    var category = map[req.params[KEY_NAME].toLowerCase()] 
+    var result = {}
+    result[KEY_NAME] = capitalizeFirstLetter(req.params[KEY_NAME].toLowerCase())
+    result[VALUE_NAME] = category == undefined ? "undefined" : category
+    res.send(result)
 })
 
 app.listen(8080, function () {
-  	console.log("VEGANbot listening...")
+    console.log("VEGANbot listening...")
 })
