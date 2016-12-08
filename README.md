@@ -1,5 +1,5 @@
 ## VEGANbot
-A simple Node.js RESTful API that will return whether or not the given food ingredient is vegan. This app was developed for [Train 2.0](http://train2point0.com/).
+A simple Node.js RESTful API that will return information about a vegan-based diet. This app was developed for [Train 2.0](http://train2point0.com/).
 
 
 ## Running locally
