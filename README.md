@@ -1,34 +1,22 @@
-## VEGANbot
-A simple Node.js RESTful API that will return information about a vegan-based diet. This app was developed for [Train 2.0](http://train2point0.com/).
+<center><img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/14469704_1223294907691585_5672280100505267940_n.png?oh=e972c158315d94e9b117574606829b2c&oe=58AF5C85" width="200" height="200" /></center>
 
 
-## Running locally
-1. Download the repository
-2. Make sure `npm` and `node` are installed
-3. Run `npm install` to install VEGANbot dependencies
-4. In Terminal, navigate to `VEGANbot/`
-5. Run `node veganbot.js`
-6. Go to `localhost:8080/Aloe Vera` in any browser
-
-
-## Supported ingredients
-Open `veganbot.json` for a list of supported ingredients. If an unsupported ingredient is put into the URL, it will return `undefined` as the resulting category.
+## Train 2.0 Apps and Services
+This repository houses source code for various Train 2.0 apps and services.  For more information, please visit the [Train 2.0 website](http://train2point0.com/).
 
 
 ## License
 
-The source code to VEGANbot is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/VEGANbot/blob/master/LICENSE) file for more information.
+The source code for all Train 2.0 apps and services is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/Train-2.0/blob/master/LICENSE) file for more information.
 
 
 ## Contact
 
-Cohen Adair
+**Cohen Adair**
+[GitHub](https://github.com/cohenadair)
+[Twitter](http://twitter.com/cohenadair)
+[LinkedIn](https://ca.linkedin.com/in/cohenadair)
+[Facebook](https://www.facebook.com/cohen.adair)
 
-* [GitHub](https://github.com/cohenadair)
-* [Twitter](http://twitter.com/cohenadair)
-* [LinkedIn](https://ca.linkedin.com/in/cohenadair)
-* [Facebook](https://www.facebook.com/cohen.adair)
-
-Jason Yee and Train 2.0
-
-* [Train 2.0](http://train2point0.com/)
+**Jason Yee and Train 2.0**
+[Train 2.0](http://train2point0.com/)
