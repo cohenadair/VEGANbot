@@ -13,10 +13,10 @@ The source code for all Train 2.0 apps and services is available under the Apach
 ## Contact
 
 **Cohen Adair**
-[GitHub](https://github.com/cohenadair)
-[Twitter](http://twitter.com/cohenadair)
-[LinkedIn](https://ca.linkedin.com/in/cohenadair)
-[Facebook](https://www.facebook.com/cohen.adair)
+* [GitHub](https://github.com/cohenadair)
+* [Twitter](http://twitter.com/cohenadair)
+* [LinkedIn](https://ca.linkedin.com/in/cohenadair)
+* [Facebook](https://www.facebook.com/cohen.adair)
 
-**Jason Yee and Train 2.0**
-[Train 2.0](http://train2point0.com/)
+**Jason Yee and Train 2.0**<br>
+* [Train 2.0](http://train2point0.com/)
