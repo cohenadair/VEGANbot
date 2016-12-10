@@ -14,16 +14,17 @@
 // limitations under the License.
 //
 
-var express = require("express")
-var app = express()
+var express = require("express");
+let app = express();
 
-var ingredientCategories = require('./routes/ingredient_categories')
+let ingredientCategory = require('./routes/ingredient_category');
 
 // @deprecated
-// @param ingredient The ingredient to look up.
-app.use("/", ingredientCategories)
-app.use("/ingredient_categories", ingredientCategories)
+app.use("/", ingredientCategory);
+
+// @current
+app.use("/ingredient_category", ingredientCategory);
 
 app.listen(8080, function () {
-    console.log("VEGANbot listening...")
-})
+    console.log("VEGANbot active...");
+});

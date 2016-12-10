@@ -6,6 +6,7 @@
   "author": "Cohen Adair, Jason Yee",
   "license": "Apache 2.0",
   "dependencies": {
+    "@types/node": "0.0.2",
     "express": "^4.14.0"
   }
 }

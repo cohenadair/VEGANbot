@@ -14,9 +14,17 @@
 // limitations under the License.
 //
 
-var exports = module.exports = {}
+interface String {
+    capitalizeFirstLetter(): String;
+    caseInsensitiveContains(str: String): boolean;
+}
 
-// Capitalizes the first letter of the given string.
-exports.capitalizeFirstLetter = function(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
+// Returns a capitalized version of this string.
+String.prototype.capitalizeFirstLetter = function() {
+    return this.charAt(0).toUpperCase() + this.slice(1);
+}
+
+// Returns true if the given string exists in this string.
+String.prototype.caseInsensitiveContains = function(str: String) {
+    return this.toLowerCase().includes(str.toLowerCase());
 }
