@@ -5,6 +5,16 @@
 This repository houses source code for various Train 2.0 apps and services.  For more information, please visit the [Train 2.0 website](http://train2point0.com/).
 
 
+## Testing
+1. Download the repository
+2. Make sure you have `npm`, `Node,js`, and `TypeScript 2.0+` installed
+3. In Terminal, navigate to the `Train-2.0/` directory
+4. Compile TypeScript files: `tsc` or `tsc -w` for automatic compiling when files are modified
+5. Run the app: `node api.js`
+6. Go to the desired URL, such as `localhost:8080/veganbot/ingredient_category/aloe%20vera`
+7. View the result
+
+
 ## License
 
 The source code for all Train 2.0 apps and services is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/Train-2.0/blob/master/LICENSE) file for more information.
