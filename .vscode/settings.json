@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.rulers": [100],
+    "files.exclude": {
+        "**/*.js": true,
+        "node_modules": true
+    }
+}

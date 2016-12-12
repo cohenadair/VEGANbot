@@ -17,7 +17,10 @@
 require("../../lib/String.prototypes");
 
 var express = require("express");
+
+// Setup router.
 var router = express.Router();
+module.exports = router;
 
 // JSON keys.
 let KEY_INGREDIENT = "ingredient";
@@ -70,5 +73,3 @@ router.get("/:" + KEY_INGREDIENT, function(req: any, res: any) {
     let userInput = req.params[KEY_INGREDIENT].toLowerCase();
     res.send(findIngredient(userInput));
 });
-
-module.exports = router;

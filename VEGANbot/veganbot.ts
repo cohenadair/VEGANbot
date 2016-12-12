@@ -15,7 +15,10 @@
 //
 
 var express = require("express");
+
+// Setup router.
 var router = express.Router();
+module.exports = router;
 
 let ingredientCategory = require('./routes/ingredient_category');
 
@@ -24,5 +27,3 @@ router.use("/", ingredientCategory);
 
 // @current
 router.use("/ingredient_category", ingredientCategory);
-
-module.exports = router;
