@@ -17,7 +17,7 @@
 require("../../lib/String.prototypes");
 
 var express = require("express");
-let router = express.Router();
+var router = express.Router();
 
 // JSON keys.
 let KEY_INGREDIENT = "ingredient";
@@ -44,7 +44,7 @@ class Ingredient {
 }
 
 // Create Ingredient list from JSON.
-let ingredients: Ingredient[];
+let ingredients: Ingredient[] = new Array();
 for (let ingredient of json) {
     ingredients.push(
         new Ingredient(ingredient[KEY_INGREDIENT].toLowerCase(), ingredient[KEY_CATEGORY])

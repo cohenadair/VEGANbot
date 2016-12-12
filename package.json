@@ -1,8 +1,8 @@
 {
-  "name": "veganbot",
+  "name": "train2point0api",
   "version": "1.0.0",
-  "description": "A RESTful API that returns the category (Vegan, Animal, Both) of specific food ingredients.",
-  "main": "veganbot.js",
+  "description": "A RESTful API for Train 2.0 apps and services.",
+  "main": "api.js",
   "author": "Cohen Adair, Jason Yee",
   "license": "Apache 2.0",
   "dependencies": {

@@ -15,14 +15,16 @@
 //
 
 var express = require("express");
-var router = express.Router();
+var app = express();
 
-let ingredientCategory = require('./routes/ingredient_category');
+let veganBot = require('./VEGANbot/veganbot');
 
 // @deprecated
-router.use("/", ingredientCategory);
+app.use("/", veganBot);
 
 // @current
-router.use("/ingredient_category", ingredientCategory);
+app.use("/veganbot", veganBot);
 
-module.exports = router;
+app.listen(8080, function () {
+    console.log("Train 2.0 API active...");
+});
