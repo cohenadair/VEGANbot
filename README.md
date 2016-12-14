@@ -21,7 +21,7 @@ This repository houses source code for various Train 2.0 apps and services.  For
 5. Run `npm install` to install dependencies
 6. Compile TypeScript files: `tsc` or `tsc -w` for automatic compiling when files are modified
 7. Run the app: `node api.js`
-8. Go to the desired URL, such as `localhost:8080/veganbot/ingredient_category/aloe%20vera`
+8. Go to the desired URL (or use `curl`), such as `localhost:8080/veganbot/ingredient_category/aloe%20vera`
 9. View the result
 
 
