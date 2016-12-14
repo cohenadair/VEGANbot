@@ -27,9 +27,11 @@ This repository houses source code for various Train 2.0 apps and services.  For
 
 ## Running Test Suites
 1. Make sure you have `mocha` installed globally
-2. In Terminal, navigate to the parent directory of the test files you want to run (i.e. `Train-2.0/VEGANbot/`)
+2. In Terminal, navigate to the `Train-2.0/` directory
 3. Run `mocha`
-> Note that by default, Mocha runs all `.js` files in the `test/` directory of the current directory, if one exists.
+	> Note that by default, Mocha runs all `.js` files in the `test/` directory
+	
+4. To run a single test file, run `mocha <file-name.js>`
 
 
 ## License
