@@ -25,6 +25,6 @@ app.use("/", veganBot);
 // @current
 app.use("/veganbot", veganBot);
 
-app.listen(8080, function () {
-    console.log("Train 2.0 API active...");
-});
+// Export server for testing.
+var server = app.listen(8080);
+module.exports = server;

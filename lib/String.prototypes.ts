@@ -15,16 +15,25 @@
 //
 
 interface String {
-    capitalizeFirstLetter(): String;
+    capitalizeWords(): String;
     caseInsensitiveContains(str: String): boolean;
 }
 
-// Returns a capitalized version of this string.
-String.prototype.capitalizeFirstLetter = function() {
-    return this.charAt(0).toUpperCase() + this.slice(1);
+/**
+ * @returns A version of the receiver whose characters are lowercase, except the first letter in
+ *          each word. For example: "heLLo WOrlD!" will return "Hello World!".
+ */
+String.prototype.capitalizeWords = function() {
+    let words: String[] = this.toLowerCase().split(" ");
+    for (let i in words) {
+        words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
+    }
+    return words.join(" ");
 }
 
-// Returns true if the given string exists in this string.
+/**
+ * @returns True if the given string exists in the receiver; false otherwise. 
+ */ 
 String.prototype.caseInsensitiveContains = function(str: String) {
     return this.toLowerCase().includes(str.toLowerCase());
 }

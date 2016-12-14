@@ -20,7 +20,7 @@ var express = require("express");
 var router = express.Router();
 module.exports = router;
 
-let ingredientCategory = require('./routes/ingredient_category');
+let ingredientCategory = require('./ingredient_category/ingredient_category');
 
 // @deprecated
 router.use("/", ingredientCategory);

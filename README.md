@@ -5,6 +5,15 @@
 This repository houses source code for various Train 2.0 apps and services.  For more information, please visit the [Train 2.0 website](http://train2point0.com/).
 
 
+## Development Tools
+* [Visual Studio Code for macOS](https://code.visualstudio.com/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Node.js](https://nodejs.org/) 
+* [Express](http://expressjs.com/)
+* [Mocha](http://mochajs.org/)
+* [supertest](https://www.npmjs.com/package/supertest) 
+
+
 ## Testing
 1. Download the repository
 2. Make sure you have `npm`, `Node,js`, and `TypeScript 2.0+` installed
@@ -14,6 +23,13 @@ This repository houses source code for various Train 2.0 apps and services.  For
 7. Run the app: `node api.js`
 8. Go to the desired URL, such as `localhost:8080/veganbot/ingredient_category/aloe%20vera`
 9. View the result
+
+
+## Running Test Suites
+1. Make sure you have `mocha` installed globally
+2. In Terminal, navigate to the parent directory of the test files you want to run (i.e. `Train-2.0/VEGANbot/`)
+3. Run `mocha`
+> Note that by default, Mocha runs all `.js` files in the `test/` directory of the current directory, if one exists.
 
 
 ## License

@@ -7,6 +7,8 @@
   "license": "Apache 2.0",
   "dependencies": {
     "@types/node": "0.0.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@types/mocha": "^2.2.33",
+    "supertest": "^2.0.1"
   }
 }

@@ -14,6 +14,8 @@
 // limitations under the License.
 //
 
+import { Ingredient } from "./Ingredient";
+
 require("../../lib/String.prototypes");
 
 var express = require("express");
@@ -29,23 +31,6 @@ let KEY_CATEGORY = "category";
 // Load JSON data.
 let json = require("../veganbot.json");
 
-class Ingredient {
-    /**
-     * @param  {String} name The name for the ingredient. Normally, this would be the user input.
-     * @returns Ingredient with an undefined category.
-     */
-    static unknown(name: String): Ingredient {
-        return new Ingredient(name, undefined);
-    }
-
-    /**
-     * @param  {String} name The name of the ingredient.
-     * @param  {String} category The category of the ingredient.
-     */
-    constructor(public readonly name: String, public readonly category: String) {
-    }
-}
-
 // Create Ingredient list from JSON.
 let ingredients: Ingredient[] = new Array();
 for (let ingredient of json) {
@@ -57,19 +42,23 @@ for (let ingredient of json) {
 /**
  * Returns an Ingredient object for the given input. All known ingredients are iterated, comparing
  * its name to the user input. If the ingredient's name is found in the input string, the 
- * ingredient is returned.
+ * ingredient is returned, otherwise a new ingredient with an "undefined" category is returned.
+ * 
  * @param  {String} userInput The input string from the user (i.e "What about aloe vera?").
+ * @returns Ingredient matching the user input.  
  */
-function findIngredient(userInput: String) {
+function findIngredient(userInput: String): Ingredient {
     for (let obj of ingredients) {
         let ingredient: Ingredient = obj;
+        if (userInput.caseInsensitiveContains(ingredient.name)) {
+            return ingredient.toClientVersion();
+        }
     }
 
     // Not found, return unknown Ingredient.
-    return Ingredient.unknown(userInput);
+    return Ingredient.unknown(userInput).toClientVersion();
 }
 
 router.get("/:" + KEY_INGREDIENT, function(req: any, res: any) {
-    let userInput = req.params[KEY_INGREDIENT].toLowerCase();
-    res.send(findIngredient(userInput));
+    res.send(findIngredient(req.params[KEY_INGREDIENT]));
 });
