@@ -6,7 +6,7 @@ This repository houses source code for various Train 2.0 apps and services.  For
 
 
 ## Development Tools
-* [Visual Studio Code for macOS](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Node.js](https://nodejs.org/) 
 * [Express](http://expressjs.com/)
@@ -34,6 +34,14 @@ This repository houses source code for various Train 2.0 apps and services.  For
 4. To run a single test file, run `mocha <file-name.js>`
 
 
+## Updating the Server
+1. `ssh` into server
+2. Update repository: `cd Train-2.0 && git pull`
+3. Compile TypeScript files: `tsc`
+4. Stop the server: `pm2 stop api`
+5. Start the server: `pm2 start api.js`
+
+
 ## License
 
 The source code for all Train 2.0 apps and services is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/Train-2.0/blob/master/LICENSE) file for more information.
@@ -47,5 +55,5 @@ The source code for all Train 2.0 apps and services is available under the Apach
 * [LinkedIn](https://ca.linkedin.com/in/cohenadair)
 * [Facebook](https://www.facebook.com/cohen.adair)
 
-**Jason Yee and Train 2.0**<br>
+**Jason Yee and Train 2.0**
 * [Train 2.0](http://train2point0.com/)
