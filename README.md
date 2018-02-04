@@ -46,11 +46,6 @@ Open `app/veganbot.json` for a list of supported ingredients. If an unsupported 
 5. Start the server: `pm2 start api.js`
 
 
-## License
-
-The source code for all VEGANbot is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/Train-2.0/blob/master/LICENSE) file for more information.
-
-
 ## Contact
 
 **Cohen Adair**
