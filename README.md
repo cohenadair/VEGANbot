@@ -1,8 +1,15 @@
-## Train 2.0 Apps and Services
-This repository houses source code for various Train 2.0 apps and services.  For more information, please visit the [Train 2.0 website](http://train2point0.com/).
+## VEGANbot - Train 2.0
+A simple Node.js RESTful API that will return information about a vegan-based diet. 
+
+This app was developed in association with Train 2.0. For more information, please visit the [VEGANbot](https://train2point0.com/veganbot/) website.
 
 
-## Development Tools
+## Supported Ingredients
+Open `app/veganbot.json` for a list of supported ingredients. If an unsupported ingredient is put into the URL, it will return `undefined` as the resulting category.
+
+
+## Development
+### Tools
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Node.js](https://nodejs.org/) 
@@ -11,7 +18,7 @@ This repository houses source code for various Train 2.0 apps and services.  For
 * [supertest](https://www.npmjs.com/package/supertest) 
 
 
-## Testing
+### Testing
 1. Download the repository
 2. Make sure you have `npm`, `Node,js`, and `TypeScript 2.0+` installed
 3. In Terminal, navigate to the `Train-2.0/` directory
@@ -22,7 +29,7 @@ This repository houses source code for various Train 2.0 apps and services.  For
 9. View the result
 
 
-## Running Test Suites
+### Running Test Suites
 1. Make sure you have `mocha` installed globally
 2. In Terminal, navigate to the `Train-2.0/` directory
 3. Run `mocha`
@@ -31,7 +38,7 @@ This repository houses source code for various Train 2.0 apps and services.  For
 4. To run a single test file, run `mocha <file-name.js>`
 
 
-## Updating the Server
+### Updating the Server
 1. `ssh` into server
 2. Update repository: `cd Train-2.0 && git pull`
 3. Compile TypeScript files: `tsc`
@@ -41,7 +48,7 @@ This repository houses source code for various Train 2.0 apps and services.  For
 
 ## License
 
-The source code for all Train 2.0 apps and services is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/Train-2.0/blob/master/LICENSE) file for more information.
+The source code for all VEGANbot is available under the Apache 2.0 License. See the [LICENSE](https://github.com/cohenadair/Train-2.0/blob/master/LICENSE) file for more information.
 
 
 ## Contact
@@ -53,4 +60,4 @@ The source code for all Train 2.0 apps and services is available under the Apach
 * [Facebook](https://www.facebook.com/cohen.adair)
 
 **Jason Yee and Train 2.0**
-* [Train 2.0](http://train2point0.com/)
+* [Train 2.0](https://train2point0.com/)
